@@ -9,6 +9,18 @@ Once the data is collected, artificial intelligence and machine learning are emp
 
 Based on these analyses, intelligent monitoring enables more efficient and effective decision-making. For instance, in a smart city context, intelligent monitoring can be used to optimize traffic flow, identify areas requiring infrastructure maintenance, or detect criminal activities
 
+## Communication
+ - WiFi Network
+ - MQTT (Message Queuing Telemetry Transport)
+
+## Material
+ - Raspberry PI 3 Model B
+ - ESP32 Devikit v1
+ - Sensors:
+    . BME280 (Temperature, Humidity, Altitude, Pressure)
+    . Rain Sensor
+    . LDR Module (light sensor - day/night)
+
 ## Installation
 
 Installing the Operating System (Raspbian)
