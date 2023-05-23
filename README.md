@@ -17,9 +17,9 @@ Based on these analyses, intelligent monitoring enables more efficient and effec
  - Raspberry PI 3 Model B
  - ESP32 Devikit v1
  - Sensors:
-    . BME280 (Temperature, Humidity, Altitude, Pressure)
-    . Rain Sensor
-    . LDR Module (light sensor - day/night)
+    - BME280 (Temperature, Humidity, Altitude, Pressure)
+    - Rain Sensor
+    - LDR Module (light sensor - day/night)
 
 ## Installation
 
